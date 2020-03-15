@@ -1,20 +1,3 @@
-/* cell.c ---------
- *
- * Filename: cell.c
- * Description:
- * Author: Dmitrii Galantsev
- * Maintainer:
- * Created:      May 12 11:28 2018
- * Last-Updated: September 23 15:38 2018
- *           By: Dmitrii Galantsev
- */
-
-/* Commentary:
- *
- *
- *
- */
-
 /* Copyright (c) 2018 The Trustees of Indiana University and
  * Indiana University Research and Technology Corporation.
  *
