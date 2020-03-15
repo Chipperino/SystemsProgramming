@@ -1,28 +1,3 @@
-/* well.h ---------
- *
- * Filename: well.h
- * Description:
- * Author: Bryce Himebaugh
- * Maintainer:
- * Created: Tue Sep  6 14:10:53 2017
- * Last-Updated: September 23 15:38 2018
- *           By: Dmitrii Galantsev
- * Keywords:
- * Compatibility:
- *
- */
-
-/* Commentary:
- *
- *
- *
- */
-
-/* Change log:
- *
- *
- */
-
 /* Copyright (c) 2016 The Trustees of Indiana University and
  * Indiana University Research and Technology Corporation.
  *
