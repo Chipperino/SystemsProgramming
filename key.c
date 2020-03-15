@@ -1,26 +1,3 @@
-/* key.c ---------
- *
- * Filename: key.c
- * Description: Controls all key inputs
- * Author: Bryce Himebaugh
- * Maintainer:
- * Created: Thu Sep 15 16:35:07 2017
- * Last-Updated: September 23 15:38 2018
- *           By: Dmitrii Galantsev
- *
- */
-
-/* Commentary:
- *
- *
- *
- */
-
-/* Change log:
- *
- *
- */
-
 /* Copyright (c) 2016 The Trustees of Indiana University and
  * Indiana University Research and Technology Corporation.
  *
