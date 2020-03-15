@@ -1,8 +1,0 @@
-						scanf("%d",&user_shape_y);mvprintw(8,5,"Choose an x ");
-						nodelay(stdscr,FALSE);
-						user_shape_x=getch();
-						nodelay(stdscr,TRUE);
-						mvprintw(8,5,"Choose a y  ");
-						nodelay(stdscr,FALSE);
-						user_shape_y=getch();
-						nodelay(stdscr,TRUE);
