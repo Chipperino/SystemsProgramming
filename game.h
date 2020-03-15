@@ -1,20 +1,3 @@
-/* game.h ---------
- *
- * Filename: game.h
- * Description:
- * Author: Dmitrii Galantsev
- * Maintainer:
- * Created:      May 12 11:28 2018
- * Last-Updated: September 23 15:38 2018
- *           By: Dmitrii Galantsev
- */
-
-/* Commentary:
- *
- * Implimentation based on Bruce Himebaugh's version for Tetris for C291 (2016)
- *
- */
-
 /* Copyright (c) 2018 The Trustees of Indiana University and
  * Indiana University Research and Technology Corporation.
  *
